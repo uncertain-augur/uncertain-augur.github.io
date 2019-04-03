@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>uncertain augur</title>
+    <link href="https://uncertain-augur.github.io/atom.xml" rel="self" />
+    <link href="https://uncertain-augur.github.io" />
+    <id>https://uncertain-augur.github.io/atom.xml</id>
+    <author>
+        <name></name>
+        <email></email>
+    </author>
+    <updated>2019-03-04T00:00:00Z</updated>
+    <entry>
+    <title>Intro</title>
+    <link href="https://uncertain-augur.github.io/posts/intro/index.html" />
+    <id>https://uncertain-augur.github.io/posts/intro/index.html</id>
+    <published>2019-03-04T00:00:00Z</published>
+    <updated>2019-03-04T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<p><img src="../../images/tokyo_comp.jpg" /> <span class="marginnote"> <a href="https://flic.kr/p/BA9Cye">Tokyo. B. Lucava</a> </span></p>
+<p>The world is a confusing place. This is a notebook of my attempts to understand it.</p>
+<p>Exactly what form that will take remains to be seen. This blog is one part of an ongoing project of continuing education. I was originally trained as an engineer, but I’ve always had a fascination with decision making and strategy; the tools people develop to try to survive and thrive in an uncertain and sometimes adversarial world. Toward the end of my university career, these interests started to merge, and I focused on robotics, learning how to answer questions of uncertainty and decision making precisely in artificial systems.</p>
+<p>As I kept reading and learning, my interests keep drawing me outwards. I’d see connections that I didn’t understand, but seemed meaningful. Commonalities between image-recognition neural networks and sections of the human brain. Mathematical structures of game theory that pop up in robotic agents, online auction markets, and evolutionary biology. Concepts from nonlinearity and chaos theory mapped onto Clausewitz. Ideas of emergent complexity that try to explain the structures of anthills, markets, and civilizations. Over and over, I feel like I keep seeing the ideas of complexity theory - chaos and emergence, nonlinearity and evolution.</p>
+<p>These connections have all been drawn by far smarter people than myself. I simply keep coming across them, and they bother me, like an object moving in the corner of my vision that I can never bring into my line of sight. It’s possible, one day, that someone will produce some unified theory of emergent complexity that will make these connections clear. For now, however, we will have to be content with making note of these connections where we come across them, and trying to sketch little bits of the grand structure that come into view.</p>
+<p>For myself, I’m trying to go about that in a more structured way, and this blog is part of that. Early on, I expect a lot of research notes, while I try to digest what others already know. I’m still at the stage where I should speak less and listen more. As time goes on and my thoughts develop a little more, I hope to add a little more of my own synthesis.</p>
+<p>Finally, although complexity and all the adjacent domains it leaks into are each fascinating in their own right, this isn’t a purely academic project. As I said, I’m an engineer by training, and the idea of building things is close to my heart. I’m interested in decision making not just for its own sake, but also for the purpose of improving my own choices. At the same time, nonlinear systems, systems that evolve in response to outside stimuli, systems deeply intertwined with human and economic dynamics- in short, the sort of systems that complexity science is interested in - are exactly the ones where our traditional engineering tools and models break down. I’m interested in the idea that by studying these systems, we can not only appreciate the beauty of the world, but build up a Munger-style library of mental models and heuristics to help us deal with it. Cultivating complex sociotechnical systems is a weird blend of systems engineering, gardening, and conflict, trying to solve a problem that in some ways is trying to solve you back.</p>
+<p>I don’t know if it’s possible to get better at it, but I’m interested to try. I hope that you find something here of use.</p>
+<h3 id="credits">Credits</h3>
+<ul>
+<li>Lucava, B. Tokyo. Online image. <a href="https://flic.kr/p/BA9Cye" class="uri">https://flic.kr/p/BA9Cye</a></li>
+</ul>]]></summary>
+</entry>
+
+</feed>
